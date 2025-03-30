@@ -1,0 +1,7 @@
+New Virtual Environment for Model Training 
+
+python3 -m venv /home/vinayak/Self-Driving-car/.venv
+
+python3 -m venv /home/vinayak/Self-Driving-car/.venv
+
+pip command for all

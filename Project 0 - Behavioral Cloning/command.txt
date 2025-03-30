@@ -1,0 +1,10 @@
+       sudo chmod +x beta_simulator.x86_64 
+   	/beta_simulator_linux$ ./beta_simulator.x86_64
+   	
+       python3 -m venv venv
+       source venv/bin/activate
+       
+	pip install keras==2.7.0
+	
+	python3 drive.py /home/vinayak/Desktop/save_at_8.h5 
+
